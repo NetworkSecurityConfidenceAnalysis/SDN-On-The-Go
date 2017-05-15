@@ -1,6 +1,6 @@
 # SDN-On-The-Go
 
-A low cost, portable, standalone, SDN test bed to gather test data from a real, configurable, 4 SDN switch, 4 host network with out-of-band controller capable of running OpenDaylight.  
+A low cost, portable, standalone, SDN test bed to gather test data from a configurable 4 SDN switch, 4 host network with out-of-band controller capable of running OpenDaylight.  
 
 Abstract:
 
